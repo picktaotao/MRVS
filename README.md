@@ -2,8 +2,10 @@
 
 ## Overview
 
-This repository contains the implementation of Zero-Shot Learning with Visual-Semantic Mutual Reinforcement for Image Recognition
+This repository contains the implementation of Zero-Shot Learning with Visual-Semantic Mutual Reinforcement for Image Recognition.
+
 In this work, we develop the mutual reinforcement of visuals and semantics, which focuses more on the inconsistent transferable representations to achieve the complementation of two modals.
+
 ![framework](images/framework.jpg)
 
 ## Prerequisites
